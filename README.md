@@ -1,2 +1,2 @@
-# Shakespeare-gpt
-creating Shakespeare-like text using Transformers
+
+# This is a decoder transformer to generate shakespeare text 
